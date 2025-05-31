@@ -1,5 +1,3 @@
-# Car-Racing-Game-SFML-
-
 # 🚗 Car Racing Game (SFML)
 
 A simple 2D car racing simulation game built using C++ and [SFML (Simple and Fast Multimedia Library)](https://www.sfml-dev.org/). It features AI-controlled opponent cars navigating through predefined checkpoints and a player-controlled car with realistic physics for steering and acceleration.
